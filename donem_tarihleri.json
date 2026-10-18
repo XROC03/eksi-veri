@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "guncelleme": "2026-10-18",
+  "donemler": [
+    {
+      "id": "2026-osym",
+      "ad": "2026 ÖSYM sınavları",
+      "olaylar": [
+        {"id": "yks", "ad": "YKS", "tarih": "2026-06-20", "tur": "sinav"},
+        {"id": "kpss-lisans", "ad": "KPSS Lisans", "tarih": "2026-09-06", "tur": "sinav"},
+        {"id": "kpss-onlisans", "ad": "KPSS Ön Lisans", "tarih": "2026-10-04", "tur": "sinav"},
+        {"id": "kpss-ortaogretim", "ad": "KPSS Ortaöğretim", "tarih": "2026-10-18", "tur": "sinav"}
+      ]
+    }
+  ]
+}
